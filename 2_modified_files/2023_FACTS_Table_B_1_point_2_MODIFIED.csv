@@ -1,0 +1,158 @@
+State,Medical_School,2019-2020_school_year,2020-2021_school_year,2021-2022_school_year,2022-2023_school_year,2023-2024_school_year
+AL,Alabama-Heersink,799,799,805,799,812
+AL,South Alabama-Whiddon,294,299,301,303,305
+AR,Arkansas,715,718,704,718,731
+AZ,Arizona,523,520,515,512,518
+AZ,Arizona Phoenix,339,346,387,427,470
+CA,California,162,292,420,487,534
+CA,California Northstate,382,396,409,437,453
+CA,Drew,-,-,-,-,60
+CA,Kaiser Permanente-Tyson,-,50,100,150,199
+CA,Loma Linda,726,750,752,763,771
+CA,Southern Cal-Keck,812,815,804,813,833
+CA,Stanford,509,508,492,493,494
+CA,UC Davis,501,509,536,540,568
+CA,UC Irvine,477,487,484,501,513
+CA,UC Riverside,292,300,329,341,362
+CA,UC San Diego,621,621,618,645,667
+CA,UC San Francisco,814,825,828,867,849
+CA,UCLA-Geffen,855,879,845,856,850
+CO,Colorado,823,801,793,779,782
+CT,Connecticut,482,490,494,501,501
+CT,Quinnipiac-Netter,386,397,396,394,394
+CT,Yale,557,545,554,558,553
+DC,George Washington,740,740,758,771,754
+DC,Georgetown,849,861,877,881,879
+DC,Howard,510,514,497,496,514
+FL,FIU-Wertheim,497,495,512,507,508
+FL,Florida,601,609,623,628,624
+FL,Florida Atlantic-Schmidt,267,265,273,281,291
+FL,Florida State,493,497,494,491,483
+FL,Miami-Miller,871,889,888,899,888
+FL,Nova Southeastern-Patel,104,154,202,206,206
+FL,UCF,499,498,496,505,496
+FL,USF-Morsani,731,739,737,747,740
+GA,Emory,643,637,654,651,660
+GA,MC Georgia Augusta,948,964,990,"1,025","1,067"
+GA,Mercer,488,497,520,569,597
+GA,Morehouse,413,422,446,484,502
+HI,Hawaii-Burns,293,305,312,320,325
+IA,Iowa-Carver,675,666,675,669,668
+IL,Carle Illinois,64,111,158,189,219
+IL,Chicago Med Franklin,791,796,806,793,814
+IL,Chicago-Pritzker,416,421,430,436,434
+IL,Illinois,"1,367","1,339","1,356","1,305","1,313"
+IL,Loyola-Stritch,690,714,712,726,723
+IL,Northwestern-Feinberg,737,749,747,740,719
+IL,Rush,567,587,616,606,611
+IL,Southern Illinois,294,303,310,317,327
+IN,Indiana,"1,503","1,517","1,527","1,532","1,524"
+KS,Kansas,876,875,868,873,876
+KY,Kentucky,668,741,807,837,837
+KY,Louisville,667,667,664,658,678
+LA,LSU New Orleans,828,833,823,828,822
+LA,LSU Shreveport,549,570,602,606,612
+LA,Tulane,802,792,797,804,814
+MA,BU-Chobanian Avedisian,764,724,707,700,698
+MA,Harvard,846,836,838,847,845
+MA,Massachusetts-Chan,704,730,722,730,779
+MA,Tufts,877,856,854,845,841
+MD,Johns Hopkins,585,590,584,572,581
+MD,Maryland,669,656,644,640,645
+MD,Uniformed Services-Hebert,697,689,695,695,699
+MI,Central Michigan,407,410,425,420,425
+MI,Michigan,795,788,787,791,793
+MI,Michigan State,822,797,802,818,818
+MI,Oakland Beaumont,487,499,505,505,508
+MI,Wayne State,"1,233","1,243","1,255","1,244","1,265"
+MI,Western Michigan-Stryker,325,337,348,347,352
+MN,Mayo-Alix,404,462,469,478,484
+MN,Minnesota,"1,015","1,045","1,032","1,032","1,049"
+MO,Missouri Columbia,473,495,497,514,527
+MO,Missouri Kansas City,466,479,518,536,553
+MO,Saint Louis,735,738,738,747,742
+MO,Washington U St Louis,605,586,601,612,625
+MS,Mississippi,643,659,677,678,675
+NC,Duke,567,575,584,586,586
+NC,East Carolina-Brody,342,347,350,344,353
+NC,North Carolina,865,888,880,884,889
+NC,Wake Forest,570,599,599,602,600
+ND,North Dakota,311,300,291,286,282
+NE,Creighton,648,680,736,805,889
+NE,Nebraska,544,544,553,550,564
+NH,Dartmouth-Geisel,413,415,408,399,414
+NJ,Cooper Rowan,410,439,449,456,461
+NJ,Hackensack Meridian,150,272,408,495,571
+NJ,Rutgers New Jersey,783,766,758,748,750
+NJ,Rutgers-RW Johnson,738,748,751,746,747
+NM,New Mexico,452,436,453,435,429
+NV,Nevada Reno,284,289,294,285,295
+NV,UNLV-Kerkorian,180,240,249,254,253
+NY,Albany,586,576,590,581,592
+NY,Buffalo-Jacobs,729,760,762,771,777
+NY,CUNY,292,315,329,297,300
+NY,Columbia-Vagelos,673,673,654,644,642
+NY,Cornell-Weill,535,529,541,529,530
+NY,Einstein,839,841,853,863,864
+NY,Mount Sinai-Icahn,671,671,642,631,614
+NY,NYU Long Island-Grossman,24,48,72,75,74
+NY,NYU-Grossman,513,493,482,482,473
+NY,New York Medical,886,882,886,879,885
+NY,Renaissance Stony Brook,595,605,586,585,593
+NY,Rochester,468,471,480,478,478
+NY,SUNY Downstate,850,863,856,857,869
+NY,SUNY Upstate-Norton,698,702,699,717,714
+NY,Zucker Hofstra Northwell,425,425,427,432,440
+OH,Case Western Reserve,"1,005",984,993,"1,004","1,011"
+OH,Cincinnati,749,770,770,763,770
+OH,Northeast Ohio,605,630,643,663,679
+OH,Ohio State,878,890,892,893,890
+OH,Toledo,724,729,737,725,731
+OH,Wright State-Boonshoft,485,495,501,513,529
+OK,Oklahoma,671,673,681,667,674
+OR,Oregon,684,679,659,653,634
+PA,Drexel,"1,074","1,078","1,130","1,178","1,236"
+PA,Geisinger Commonwealth,455,464,479,471,472
+PA,Jefferson-Kimmel,"1,156","1,157","1,157","1,168","1,165"
+PA,Penn State,661,673,667,655,649
+PA,Pennsylvania-Perelman,778,777,780,759,782
+PA,Pittsburgh,684,697,710,702,710
+PA,Temple-Katz,844,879,872,877,913
+PR,Caribe,339,341,333,321,328
+PR,Ponce,401,479,534,609,684
+PR,Puerto Rico,462,466,462,452,450
+PR,San Juan Bautista,281,274,275,285,310
+RI,Brown-Alpert,618,624,643,633,636
+SC,MU South Carolina,745,745,734,737,737
+SC,South Carolina Columbia,399,410,406,398,404
+SC,South Carolina Greenville,422,429,431,434,441
+SD,South Dakota-Sanford,281,279,279,279,280
+TN,East Tennessee-Quillen,293,294,297,303,307
+TN,Meharry,477,493,496,484,499
+TN,Tennessee,695,703,696,703,707
+TN,Vanderbilt,444,456,453,450,441
+TX,Baylor,847,837,815,826,880
+TX,Houston-Fertitta,-,30,60,120,180
+TX,TCU-Burnett,60,120,180,240,247
+TX,Texas A&M,629,619,695,766,850
+TX,Texas Tech,745,749,747,742,744
+TX,Texas Tech-Foster,412,426,442,467,498
+TX,UT Austin-Dell,196,196,199,201,206
+TX,UT Houston-McGovern,"1,016","1,010","1,014","1,018","1,020"
+TX,UT Medical Branch-Sealy,971,970,955,964,964
+TX,UT Rio Grande Valley,209,224,223,221,225
+TX,UT San Antonio-Long,888,897,890,913,947
+TX,UT Southwestern,981,978,996,"1,015","1,021"
+TX,UT Tyler,-,-,-,-,40
+UT,Utah-Eccles,528,522,532,538,535
+VA,Eastern Virginia,605,606,609,611,613
+VA,Virginia,671,673,679,663,657
+VA,Virginia Commonwealth,846,808,791,792,781
+VA,Virginia Tech Carilion,173,174,186,194,200
+VT,Vermont-Larner,490,492,503,506,510
+WA,U Washington,"1,185","1,190","1,175","1,183","1,187"
+WA,Washington State-Floyd,198,278,301,323,334
+WI,MC Wisconsin,"1,018","1,036","1,046","1,075","1,097"
+WI,Wisconsin,747,755,756,751,761
+WV,Marshall-Edwards,336,327,328,336,313
+WV,West Virginia,462,464,452,450,448
